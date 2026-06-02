@@ -30,7 +30,7 @@ A premium interactive portfolio featuring a cinematic intro sequence, minimalist
 - 💼 **Infosys-trained** in Microsoft Azure AI & Cloud
 - 🏠 **From:** Tadipatri, Andhra Pradesh
 - 📊 **CGPA:** 7.27 / 10
-- ✅ **Status:** Graduated 2025, Open to AI/ML Opportunities
+- ✅ **Status:** Graduated 2026, Open to AI/ML Opportunities
 
 ---
 
