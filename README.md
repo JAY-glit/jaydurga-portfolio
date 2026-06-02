@@ -257,7 +257,7 @@ Edit `css/styles.css` at the top:
 - **Role:** AI & Cloud Engineer
 - **Degree:** B.E. CSE (Artificial Intelligence)
 - **University:** Om Sterling Global University, Hisar
-- **Graduation Year:** 2025 ✅
+- **Graduation Year:** 2026 ✅
 - **CGPA:** 7.27 / 10
 - **Training:** Infosys ICT Academy - Microsoft Azure AI ✅
 - **Home:** Tadipatri, Andhra Pradesh
