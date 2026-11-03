@@ -1,15 +1,19 @@
 # Jay Digital Studio — Website Concepts
 
-Four original, responsive front-end concept websites created to demonstrate design and implementation range. These are fictional brands and sample projects, not paid client work or real businesses.
+Eight original, responsive front-end concept websites created to demonstrate design and implementation range. These are fictional brands and sample projects, not paid client work or real businesses.
+
+## Live portfolio
+- [Jay Digital Studio — main portfolio](https://headless-hwqddypmhyg-jaydurga1290-140c.wix-site-host.com/)
 
 ## Live demos
-- [Live Jay Digital Studio portfolio](https://headless-hwqddypmhyg-jaydurga1290-140c.wix-site-host.com/)
-- [Concept gallery](https://github.com/JAY-glit/jaydurga-portfolio/blob/main/demos/index.html)
-- [PELAGIC — animated jellyfish experience](https://headless-hwqddypmhyg-jaydurga1290-140c.wix-site-host.com/abyss/)
-- [Casa Terra — warm editorial café](https://jaydurga.org.in/demos/casa/)
-- [Noir Atelier — premium architecture studio](https://jaydurga.org.in/demos/noir/)
-- [Field Notes — botanical skincare storefront](https://headless-hwqddypmhyg-jaydurga1290-140c.wix-site-host.com/bloom/)
-- [PELAGIC — ocean-inspired animated landing page](https://headless-hwqddypmhyg-jaydurga1290-140c.wix-site-host.com/abyss/)
+- [Casa Terra — boutique café](https://headless-hwqddypmhyg-jaydurga1290-140c.wix-site-host.com/casa/index.html)
+- [Noir Atelier — architecture and interiors](https://headless-hwqddypmhyg-jaydurga1290-140c.wix-site-host.com/noir/index.html)
+- [Field Notes — botanical skincare storefront](https://headless-hwqddypmhyg-jaydurga1290-140c.wix-site-host.com/bloom/index.html)
+- [ORBIT — 3D product experience](https://headless-hwqddypmhyg-jaydurga1290-140c.wix-site-host.com/orbit/index.html)
+- [FORMA — architecture studio](https://headless-hwqddypmhyg-jaydurga1290-140c.wix-site-host.com/forma/index.html)
+- [SIGNAL — SaaS analytics dashboard](https://headless-hwqddypmhyg-jaydurga1290-140c.wix-site-host.com/signal/index.html)
+- [ATLAS — travel editorial](https://headless-hwqddypmhyg-jaydurga1290-140c.wix-site-host.com/atlas/index.html)
+- [PELAGIC — animated jellyfish ocean experience](https://headless-hwqddypmhyg-jaydurga1290-140c.wix-site-host.com/abyss/index.html)
 
 ## Features
 - Responsive desktop and mobile layouts
@@ -18,11 +22,14 @@ Four original, responsive front-end concept websites created to demonstrate desi
 - Casa Terra: reservation modal (demo only)
 - Noir Atelier: editorial project gallery and inquiry CTA
 - Field Notes: product category filters, interactive demo bag and newsletter feedback
-- PELAGIC: custom canvas jellyfish animation, independently swaying tentacles, particle drift, cursor parallax and reduced-motion support
-- Accessible semantic HTML and descriptive image alt text
+- ORBIT: animated 3D-style product presentation and pointer-responsive interaction
+- FORMA: editorial architecture layouts and layered project imagery
+- SIGNAL: dashboard navigation, KPI cards, charts and activity table using illustrative data
+- ATLAS: cinematic travel storytelling and responsive destination sections
+- PELAGIC: canvas jellyfish animation, independently swaying tentacles, drifting particles, cursor parallax and reduced-motion support
 
 ## Stack
-HTML, CSS, vanilla JavaScript, Google Fonts and Unsplash-hosted editorial photography.
+HTML, CSS, vanilla JavaScript, Canvas, Google Fonts and externally hosted editorial photography where used.
 
 ## Important
-No actual reservations, purchases, newsletter subscriptions or customer data collection occur. Product names, pricing, locations and businesses are illustrative. Images are loaded from Unsplash at runtime.
+No real reservations, purchases, payments, newsletter subscriptions or customer data collection occur unless explicitly integrated. Product names, pricing, locations, dashboard metrics and businesses are illustrative. Images may load from third-party image hosts.
